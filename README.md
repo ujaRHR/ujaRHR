@@ -1,4 +1,4 @@
-🔭 Automation & Scraping<br>
+🔭 Working with Automation & Scraping<br>
 🌱 Learning Django and API<br>
 
 
