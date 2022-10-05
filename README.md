@@ -1,4 +1,4 @@
-🔭 Working with Automation & Scraping<br>
+🔭 Automation & Scraping<br>
 🌱 Learning Django and API<br>
 
 
@@ -12,10 +12,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ujarhr&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ujarhr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+#### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+#### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
