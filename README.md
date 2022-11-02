@@ -1,6 +1,6 @@
 <p>___________________________________</p>
 🔭 Automation & Scraping<br>
-🌱 Learning Django and API<br>
+🌱 Who doesn't love Flask?<br>
 <p>___________________________________<p>
 
 #### 🌐 Socials:
