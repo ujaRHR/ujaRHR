@@ -1,6 +1,6 @@
 <p>___________________________________</p>
 🔭 Automation & Scraping<br>
-🌱 Love to work with PHP and MySQL!!!
+🌱 Love to work with PHP and MySQL!!! Laravel too?
 <p>___________________________________<p>
 
 #### 🌐 Socials:
