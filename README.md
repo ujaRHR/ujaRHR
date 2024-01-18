@@ -1,7 +1,6 @@
 <p>___________________________________</p>
 🔭 Automation & Scraping with Python<br>
 🌱 Love to work with PHP and MySQL!!!<br>
-😅 Every day is a learning opportunity.
 <p>___________________________________<p>
 
 #### 🌐 Socials:
