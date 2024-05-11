@@ -1,6 +1,5 @@
 <p>___________________________________</p>
 🔭 Automation & Scraping with Python<br>
-🌱 Love to work with PHP and MySQL!!!<br>
 👟 Tweaking with Laravel should be fun, isn't it? <br>
 <p>___________________________________<p>
 
