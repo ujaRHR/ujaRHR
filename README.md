@@ -1,8 +1,8 @@
 ## 👋 About Me
 <p>I'm a web application developer specializing in backend development. I enjoy solving complex problems, creating scalable web applications, and continuously learning new technologies.</p>
 
-💻 Currently Working On: [PhriX v1.1](https://github.com/ujaRHR/phrix-php) - It's cool, right? <br>
-📚 Currently Learning: Node.js, Express.js, and distributed systems. <br>
+💻 Currently Working On: [PhriX v1.0](https://github.com/ujaRHR/phrix-php) - It's cool, right? <br>
+📚 Learning: Node.js, Express.js, and distributed systems. <br>
 🌍 Open For Work: Any remote and relocation opportunities. <br>
 💬 Email Me At: [hello@rhraju.com](mailto:hello@rhraju.com) <br>
 
