@@ -30,7 +30,7 @@
 <!-- ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) -->
 <!-- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) -->
 
-### 🌐 Socials:
+### 👥 Digital Garden:
 <p>I am always open to collaborations and technical discussions. Feel free to reach out!</p>
 
 🌐 LinkedIn: [/in/reajulhasanraju](https://linkedin.com/in/reajulhasanraju) <br>
