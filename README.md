@@ -1,7 +1,7 @@
 ## 👋 Hey, Raju here...
-<p>I'm a web application developer specializing in backend development. I enjoy solving complex problems, creating scalable web applications, and continuously learning new technologies.</p>
+<p>I'm a web application developer mainly focused on backend development. I enjoy solving complex problems, creating scalable web applications, and continuously learning new technologies.</p>
 
-💻 Currently Working On: [Expense Tracker API](https://github.com/ujaRHR/expense-tracker-api) - a tiny, complete node.js API project <br>
+💻 Currently Working On: [PhriX v1.1](https://github.com/ujaRHR/phrix-php) - a tiny, no-BS PHP micro-framework <br>
 📚 Learning: Docker, containerization, and distributed systems. <br>
 🌍 Open For Work: Any remote and relocation opportunities. <br>
 💬 Email Me At: [hello@rhraju.com](mailto:hello@rhraju.com) <br>
@@ -24,13 +24,10 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white) 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white) 
 
+<!-- ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) -->
 <!-- ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) -->
 <!-- ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) -->
-<!-- ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) -->
 
 <!-- ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) -->
 <!-- ![Nuxt.js](https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white) -->
