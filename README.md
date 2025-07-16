@@ -1,8 +1,6 @@
 ## 👋 Hey, Raju here...
 <p>I'm a web application developer mainly focused on backend development. I enjoy solving complex problems, creating scalable web applications, and continuously learning new technologies.</p>
 
-💻 Currently Working On: [PhriX v1.1](https://github.com/ujaRHR/phrix-php) - a tiny, no-BS PHP micro-framework <br>
-📚 Learning: Docker, containerization, and distributed systems. <br>
 🌍 Open For Work: Any remote and relocation opportunities. <br>
 💬 Email Me At: [hello@rhraju.com](mailto:hello@rhraju.com) <br>
 
@@ -22,7 +20,6 @@
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 
 
