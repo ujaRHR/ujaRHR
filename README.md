@@ -32,7 +32,7 @@
 <p>I am always open to collaborations and technical discussions. Feel free to reach out!</p>
 
 🌐 Telegram: [@rhraju03](https://t.me/rhraju03) <br>
-🐦 Twitter: [@rhraju03](https://twitter.com/rhraju03) <br>
+🐦 Twitter: [@ujarhr](https://twitter.com/ujarhr) <br>
 💼 Portfolio: [https://rhraju.com](https://rhraju.com) <br>
 📝 Blogs: [https://blogs.rhraju.com](https://blogs.rhraju.com) <br>
 
