@@ -2,7 +2,7 @@
 <p>I'm a web application developer mainly focused on backend development. I enjoy solving complex problems, creating scalable web applications, and continuously learning new technologies.</p>
 
 🌍 Open For Work: Any remote and relocation opportunities. <br>
-💬 Email Me At: [hello@rhraju.com](mailto:hello@rhraju.com) <br>
+💬 Email Me At: [rhraju.inbox@gmail.com](mailto:rhraju.inbox@gmail.com) <br>
 
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge) 
@@ -31,8 +31,8 @@
 
 🌐 Telegram: [@rhraju03](https://t.me/rhraju03) <br>
 🐦 Twitter: [@ujarhr](https://twitter.com/ujarhr) <br>
-💼 Portfolio: [https://rhraju.com](https://rhraju.com) <br>
-📝 Blogs: [https://blogs.rhraju.com](https://blogs.rhraju.com) <br>
+<!-- 💼 Portfolio: [https://rhraju.com](https://rhraju.com) <br> -->
+<!-- 📝 Blogs: [https://blogs.rhraju.com](https://blogs.rhraju.com) <br> -->
 
 
 > "The best error message is the one that never shows up." <br>
