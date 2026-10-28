@@ -1,8 +1,8 @@
 ## 👋 Hey, Raju here...
-<p>I'm a web application developer mainly focused on backend development. I enjoy solving complex problems, creating scalable web applications, and continuously learning new technologies.</p>
+I'm a software and web application engineer focused on backend development with Go, TypeScript, and Node.js. I work on distributed systems and relational databases, and I enjoy cloud, DevOps, and self-hosting.
 
-🌍 Open For Work: Any remote and relocation opportunities. <br>
-💬 Email Me At: [rhraju.inbox@gmail.com](mailto:rhraju.inbox@gmail.com) <br>
+🌍 Open to remote and relocation opportunities <br>
+💬 Email: [rhraju.inbox@gmail.com](mailto:rhraju.inbox@gmail.com) <br>
 
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge) 
@@ -29,9 +29,10 @@
 
 <p>I am always open to collaborations and technical discussions. Feel free to reach out!</p>
 
-🌐 Telegram: [@rhraju03](https://t.me/rhraju03) <br>
-🐦 Twitter: [@ujarhr](https://twitter.com/ujarhr) <br>
-<!-- 💼 Portfolio: [https://rhraju.com](https://rhraju.com) <br> -->
+💼 Portfolio: [https://rhraju.com](https://rhraju.com) <br>
+✈️ Telegram: [@rhraju03](https://t.me/rhraju03) <br>
+🐦 X (Twitter): [@ujarhr](https://twitter.com/ujarhr) <br>
+👥 LinkedIn: [@reajul-h-raju](https://linkedin.com/in/reajul-h-raju) <br>
 <!-- 📝 Blogs: [https://blogs.rhraju.com](https://blogs.rhraju.com) <br> -->
 
 
