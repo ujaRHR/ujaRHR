@@ -29,10 +29,10 @@ I'm a software and web application engineer focused on backend development with 
 
 <p>I am always open to collaborations and technical discussions. Feel free to reach out!</p>
 
-💼 Portfolio: [https://rhraju.com](https://rhraju.com) <br>
-✈️ Telegram: [@rhraju03](https://t.me/rhraju03) <br>
-🐦 X (Twitter): [@ujarhr](https://twitter.com/ujarhr) <br>
-👥 LinkedIn: [@reajul-h-raju](https://linkedin.com/in/reajul-h-raju) <br>
+- Portfolio: [https://rhraju.com](https://rhraju.com) <br>
+- Telegram: [@rhraju03](https://t.me/rhraju03) <br>
+- X (Twitter): [@ujarhr](https://twitter.com/ujarhr) <br>
+- LinkedIn: [@reajul-h-raju](https://linkedin.com/in/reajul-h-raju) <br>
 <!-- 📝 Blogs: [https://blogs.rhraju.com](https://blogs.rhraju.com) <br> -->
 
 
